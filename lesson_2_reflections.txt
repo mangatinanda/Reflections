@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+A new git repository will be created without any commits. Initialize a new git repository.
