@@ -1,0 +1,18 @@
+Is version control really necessary? 
+Oh yes!
+
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+It showed me the differences between two files
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+I can try new things and come back if it doesn't work out.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+Meaningfull history when you come back and see provided you gave commit messages.
+Automatic saving might be useful when you forgot to commit.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+It is very likely that every project will have morethan one inter related files.
+
+How might using version control make you more confident to make changes that could break something?
+I can go back at any time if messed up something.
