@@ -19,3 +19,7 @@ What is the result of merging two branches together? Why do we represent it in t
 
 Success or merge conflict.
 because two branches are merged to single branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Saves time, effort, energy.
